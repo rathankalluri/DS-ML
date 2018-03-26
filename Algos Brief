@@ -1,0 +1,26 @@
+1) Naïve Bayes Classifier Algorithm
+
+Naïve Bayes Algorithm is a "Classification" algorithim for classifying Documents, Web Pages, and any other data which is tough to be classified. A classifier is a function that allocates a population’s element value from one of the available categories. For instance, Spam Filtering is a popular application of Naïve Bayes algorithm. Spam filter here, is a classifier that assigns a label “Spam” or “Not Spam” to all the emails.
+
+It is a simple classification of words based on "Bayes Probability Theorem" for subjective analysis of content.
+
+When to use the Machine Learning algorithm - Naïve Bayes Classifier?
+
+*) If you have a moderate or large training data set.
+*) If the instances have several attributes.
+*) Given the classification parameter, attributes which describe the instances should be conditionally independent.
+
+Applications of Naïve Bayes Classifier
+
+*) Sentiment Analysis- It is used at Facebook to analyse status updates expressing positive or negative emotions.
+*) Document Categorization- Google uses document classification to index documents and find relevancy scores i.e. the PageRank. PageRank mechanism considers the pages marked as important in the databases that were parsed and classified using a document classification technique.
+*) Classifying news articles about Technology, Entertainment, Sports, Politics, etc.
+*) Email Spam Filtering-Google Mail uses Naïve Bayes algorithm to classify emails as Spam or Not Spam
+
+Advantages of Naïve Bayes Classifier Algorithim
+
+Works better with Categorical Variables or if input data is categorical
+Converges faster with little training data unlike for Logistic Regression
+Best for predicting class of test data set, and even good for multi class prediction
+
+Link to example to be added.
