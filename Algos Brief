@@ -1,4 +1,4 @@
-<h2> 1) Naïve Bayes Classifier Algorithm </h2>
+1) Naïve Bayes Classifier Algorithm
 
 Naïve Bayes Algorithm is a "Classification" algorithim for classifying Documents, Web Pages, and any other data which is tough to be classified. A classifier is a function that allocates a population’s element value from one of the available categories. For instance, Spam Filtering is a popular application of Naïve Bayes algorithm. Spam filter here, is a classifier that assigns a label “Spam” or “Not Spam” to all the emails.
 
